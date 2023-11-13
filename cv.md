@@ -1,4 +1,5 @@
 # My first cv
 
-- Full Name - Zhenya Petrovykh
-- Contact information: [telegram](https://t.me/KoFEew)
+1. Full Name - Zhenya Petrovykh
+2. Contact information: [Telegram](https://t.me/KoFEew), [VK](https://vk.com/zpetrovyh), [Github](https://github.com/KoFE-e)
+3.  
