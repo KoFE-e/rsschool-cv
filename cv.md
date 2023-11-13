@@ -1,4 +1,4 @@
-# My first cv
+# My first CV
 
 1. My full name is Zhenya Petrovykh
 2. My photo - 
