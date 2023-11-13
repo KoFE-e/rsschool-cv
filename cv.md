@@ -12,3 +12,7 @@
     - JS
     - React basics
     - Working with Gulp, Webpack 
+6. Code examples: [Learning project](https://github.com/KoFE-e/web_practice)
+7. Work experience: only one [project](https://github.com/KoFE-e/tim_motors) and [WP-theme](https://github.com/KoFE-e/tim_motors_wp_theme) for the same project
+8. Education: I am pursuing a degree in software engineering technology. Also I have completed online courses from Ivan Petrichenko on WEB development, JS, creating themes for WordPress.
+9. English Language: I don't know my English level, but I'm taking Duolingo courses at the moment. I also studied it at school and in the 1st year of university.
