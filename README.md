@@ -1,1 +1,1 @@
-# rsschool-cv
+https://KoFE-e.github.io/rsschool-cv/
