@@ -1,1 +1,1 @@
-https://KoFE-e.github.io/rsschool-cv/cv
+https://KoFE-e.github.io/rsschool-cv/
