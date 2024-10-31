@@ -16,10 +16,10 @@ I live in a beautiful city in Russia - Kazan. My goal is to become a professiona
 
 ## Code examples
 I have a few pet projects. Here are some of them:
-* https://github.com/KoFE-e/Picture-site
-* https://github.com/KoFE-e/marvel_react
-* https://github.com/KoFE-e/tim_motors_wp_theme
-* https://github.com/KoFE-e/movie_tracker
+* [Picture site](https://github.com/KoFE-e/Picture-site)
+* [Marvel heroes on React](https://github.com/KoFE-e/marvel_react)
+* [Window site](https://github.com/KoFE-e/window)
+* [Movie Tracker on Python Django](https://github.com/KoFE-e/movie_tracker)
 
 ## Courses
 At university I studied various disciplines. Among them: Web developer, DevOps engineer, databases, Python, C# and others.
