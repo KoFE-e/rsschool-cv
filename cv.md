@@ -24,3 +24,6 @@ I have a few pet projects. Here are some of them:
 ## Courses
 At university I studied various disciplines. Among them: Web developer, DevOps engineer, databases, Python, C# and others.
 As an independent study, I took courses in the Web-developer profession from Ivan Petrichenko. Among them were courses on WordPress, JS, React.
+
+## English level
+According to the EF SET quick English test, my English level is between B1 Intermediate and B2 Upper intermediate (85/100).
